@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnstarich/go/dns/scutil"
-	"github.com/johnstarich/go/dns/staggercast"
-	"github.com/johnstarich/go/dns/testhelpers"
+	"github.com/johnstarich/gomodtest/dns/scutil"
+	"github.com/johnstarich/gomodtest/dns/staggercast"
+	"github.com/johnstarich/gomodtest/dns/testhelpers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"

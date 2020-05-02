@@ -1,4 +1,4 @@
-module github.com/johnstarich/go/dns
+module github.com/johnstarich/gomodtest/dns
 
 go 1.13
 

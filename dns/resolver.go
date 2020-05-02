@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/johnstarich/go/dns/scutil"
-	"github.com/johnstarich/go/dns/staggercast"
+	"github.com/johnstarich/gomodtest/dns/scutil"
+	"github.com/johnstarich/gomodtest/dns/staggercast"
 	"go.uber.org/zap"
 )
 
